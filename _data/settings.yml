@@ -1,8 +1,7 @@
 menu:
 - {name: 'Η Ομάδα', url: '/people'}
 - {name: 'Η εργασία', url: '/publications'}
-- {name: 'Οι Λίμνες', url: '/courses'}
-- {name: 'cv', url: '/cv'}
+- {name: 'Οι Λίμνες', url: '/lakesingreece'}
 - {name: 'Επικοινωνία', url: '/contact'}
 
 people:
