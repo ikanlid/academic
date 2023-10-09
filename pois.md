@@ -1,6 +1,5 @@
-
 ---
-layout: lakes
+layout: page
 title: POIs List
 permalink: /pois/
 
@@ -13,4 +12,3 @@ permalink: /pois/
     </li>
   {% endfor %}
 </ul>
-0 comments on commit 
