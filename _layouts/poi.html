@@ -1,0 +1,57 @@
+---
+layout: default
+load_leaflet: 1
+---
+
+<!-- Name -->
+<p style="line-height: 3; color:#000000;">W</p>
+<h1 style="font-size:32px; color:#ffffff; font-family:Arial, sans-serif; padding-left: 30px;">{{page.title}}</h1>
+<!-- Name title -->
+<!-- <h2 id="wikidata_title" style="color:#ffffff; font-family:Arial, sans-serif; padding-left: 30px;"></h2> -->
+<!-- <h3 id="wikidata_descr" style="color:#ffffff; font-family:Arial, sans-serif; padding-left: 30px;"></h3> -->
+
+<img id="wikidata_img" style="width: 512px; height: 512px; padding-bottom: 30px; padding-left: 30px; padding-right: 30px; float:right;" />
+<!-- the logo of wikipedia -->
+<a id="wikidata_href" target="_blank" style="color: #ffffff; padding-left: 30px;"><span id="wikipedia_title"> </a>
+<!-- <img src = "https://upload.wikimedia.org/wikipedia/commons/archive/5/5a/20211013163259%21Wikipedia%27s_W.svg" alt="Wikipedia link" height="20px" style="padding-left: 30px; float:right;"/> <span id="wikipedia_title"> </a> -->
+<p id="wikidata_location"></p>
+
+<html lang="en">
+    <style><
+        h1 {
+            text-align: center;
+        }
+        p { font-family: Arial, sans-serif;
+            line-height: 1.6;
+            text-align: justify;
+            margin-bottom: 20px;
+            font-size: 15px;
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+
+{{ content }}
+
+</html>
+
+<div id="map" style="height: 180px; width:30%; background-color:lightgrey; "></div>
+
+<!-- the logo of wikidata -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Wikidata_Stamp_Rec_Light.svg" style="float:right; width:100px" />
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script>var wikidatum = '{{page.wikidatum}}'</script>
+<script src="{{ '/assets/js/get_wiki_item.js' | relative_url }}"></script>
+
+<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+   integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+   crossorigin=""></script>
+<script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js'></script>
