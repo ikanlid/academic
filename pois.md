@@ -1,7 +1,7 @@
 ---
-layout: main
-title: Wonders
-permalink: /wonders/
+layout: lakes
+title: POIs List
+permalink: /pois/
 
 ---
 
