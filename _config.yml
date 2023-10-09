@@ -3,8 +3,8 @@ baseurl: "academic" # the subpath of your site, e.g. /blog
 collections:
   authors:
     output: true 
-title: "academic" # the name of your site, e.g. ACME Corp.
-description: "a Jekyll theme for academia"
+title: "Lakes in Greece" # the name of your site, e.g. ACME Corp.
+description: "Εργαλεία Προβολής Πολιτιστικού & Τουριστικού Προϊόντος τ"
 
 collections:
   pois:
