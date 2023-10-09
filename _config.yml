@@ -5,3 +5,7 @@ collections:
     output: true 
 title: "academic" # the name of your site, e.g. ACME Corp.
 description: "a Jekyll theme for academia"
+
+collections:
+  pois:
+    output: true
