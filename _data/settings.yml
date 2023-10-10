@@ -1,6 +1,6 @@
 menu:
 - {name: 'Η Ομάδα', url: '/people'}
-- {name: 'Η εργασία', url: '/publications'}
+- {name: 'Η Εργασία', url: '/publications'}
 - {name: 'Οι Λίμνες', url: '/lakesingreece'}
 - {name: 'Επικοινωνία', url: '/contact'}
 
