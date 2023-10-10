@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Graduate Student"
+title: "Ιωάννα Κανλίδου"
 ---
 
 Researcher - Physics & Astronomy
