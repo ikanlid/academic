@@ -1,18 +1,19 @@
 ---
 layout: page
-title: "Primary Investigator"
+title: "Σπυρίδων Μαυρομάτης"
 ---
 
-Researcher - Physics & Astronomy
+Μεταπτυχικαός Φοιτητήç - Τμήμα Πλροφορικής
 
-Some University - 1 Main Street, Canada
+Ιόνιο Πανεπιστήμιο, Κέρκυρα
 
 Phone: (000) 000-0000
 
-Email: hello@university.edu
+Email: inf.dig2201@ionio.gr
 
 Office: Science Building 505
 
 ---
 
-Nullam lacinia eros eu lectus efficitur euismod. Phasellus ac urna ligula. Curabitur a massa volutpat, convallis velit ut, varius nunc. Ut venenatis pellentesque nulla, luctus accumsan eros suscipit vitae. Proin odio neque, hendrerit cursus mattis ut, aliquet ut nulla. Nulla facilisi. Donec tempus rutrum libero vel cursus.
+
+Μέλος της ομάδας για την Προβολή Πολιτιστικού & Τουριστικού Προϊόντος στο πλαίσιο του ΠΜΣ «Ψηφιακές Εφαρμογές & Καινοτομία» ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ, Ακ. Ετος 2023
