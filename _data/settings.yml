@@ -5,7 +5,7 @@ menu:
 - {name: 'Επικοινωνία', url: '/contact'}
 
 people:
-- {name: 'Σπυρίδων Μαυρομάτης', title: 'Μεταπτυχιακός Φοιτητής', department: 'Τμήμα Πληροφορικής', institution: 'Ιόνιο Πανεπιστήμιο', institution_address: 'Κέρκυρα', phone: '(000) 000-0000', email: 'inf.dig2201@ionio.edu', office: 'Science Building 505', image: 'assets/img/spiros-mavromatis.jpeg', url: 'primary-investigator'}
+- {name: 'Σπυρίδων Μαυρομάτης', title: 'Μεταπτυχιακός Φοιτητής', department: 'Τμήμα Πληροφορικής', institution: 'Ιόνιο Πανεπιστήμιο', institution_address: 'Κέρκυρα', phone: '(000) 000-0000', email: 'inf.dig2201@ionio.gr', office: 'Science Building 505', image: 'assets/img/spiros-mavromatis.jpeg', url: 'primary-investigator'}
 - {name: 'Ιωάννα Κανλίδου', title: 'Μεταπτυχιακός Φοιτητής', department: 'Τμήμα Πληροφορικής', institution: 'Ιόνιο Πανεπιστήμιο', institution_address: 'Κέρκυρα', phone: '(000) 000-0000', email: 'inf.dig2204@ionio.gr', office: 'Science Building 505', image: 'assets/img/ioanna-kanlidou.jpeg', url: 'lab-technician'}
 - {name: 'Νικολέτα Τρύφωνα', title: 'Μεταπτυχιακός Φοιτητής', department: 'Τμήμα Πληροφορικής', institution: 'Ιόνιο Πανεπιστήμιο', institution_address: 'Κέρκυρα', phone: '(000) 000-0000', email: 'inf.dig2207@ionio.gr', office: 'Science Building 505', image: 'assets/img/nicole-tryfona.jpeg', url: 'graduate-student'}
 
