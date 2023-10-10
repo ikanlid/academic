@@ -1,17 +1,14 @@
 ---
 layout: page
-title: "Lab Technician"
+title: "Ιωάννα Κανλίδου"
 ---
 
-Researcher - Physics & Astronomy
+Μεταπτυχικαός Φοιτητής - Τμήμα Πλροφορικής
 
-Some University - 1 Main Street, Canada
+Ιόνιο Πανεπιστήμιο, Κέρκυρα
 
-Phone: (000) 000-0000
+Email: inf.dig2204@ionio.gr
 
-Email: hello@university.edu
-
-Office: Science Building 505
 
 ---
 
