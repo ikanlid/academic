@@ -1,17 +1,14 @@
 ---
 layout: page
-title: "Ιωάννα Κανλίδου"
+title: "Νικολέτα Τρύφωνα"
 ---
 
-Researcher - Physics & Astronomy
+Μεταπτυχικαός Φοιτητής - Τμήμα Πλροφορικής
 
-Some University - 1 Main Street, Canada
+Ιόνιο Πανεπιστήμιο, Κέρκυρα
 
-Phone: (000) 000-0000
+Email: inf.dig2207@ionio.gr
 
-Email: hello@university.edu
-
-Office: Science Building 505
 
 ---
 
