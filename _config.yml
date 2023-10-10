@@ -4,7 +4,7 @@ collections:
   authors:
     output: true 
 title: "Lakes in Greece" # the name of your site, e.g. ACME Corp.
-description: "Εργαλεία Προβολής Πολιτιστικού & Τουριστικού Προϊόντος"
+description: "Προβολή Πολιτιστικού & Τουριστικού Προϊόντος"
 
 collections:
   pois:
